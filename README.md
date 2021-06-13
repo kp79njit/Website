@@ -10,6 +10,6 @@ Home Page </h1>
 <h2>Dr. Leonard Klein Rock Theory</h2>
 <h2>ARPA</h2>
 <h2>Evolution of Computer and Websites</h2>
-<h2>How Information Transfer</h2>
+<h2>How Information Transfers</h2>
 <h2>Internet Protocols and IP Address</h2>
 
