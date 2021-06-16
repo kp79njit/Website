@@ -15,8 +15,8 @@
 
 
 ### Page Content
-
-Internet is made of large number of independently operated networks. Goal of these operators / service provider is to provide the end-to-end connectivity between two workstations to transfer the data.
+Internet was one of the blooming thing used for the concept of Data Communication which is transmitting data between two different places through an electromagnetic medium predates the Introduction of first computers. Main Usage includes emails, chat, and websites. Computer scientists Vinton Cerf and Bob Kahn invented the Internet Communication protocol referred as ‘Internet’.
+In 1950, the invention of Internet has growth fast than automobile, telephone and printing press .It provided vital information happening in day-to-day life and gives instant access to information everywhere.
 
 
 
@@ -28,4 +28,4 @@ Page Image Alt attribute:
 
 
 ### Keywords
-Data Communication ,
+Data Communication ,Protocol,Internet
