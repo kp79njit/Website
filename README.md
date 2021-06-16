@@ -1,7 +1,7 @@
 # Website
 This is for Website project
 # [Home Page](Content/Index.md)
-# [Menu](Sections/Nav.md)
+# [Main Menu](Sections/Nav.md)
 
 ## Topic Highlights
 ### The Invention of Internet
