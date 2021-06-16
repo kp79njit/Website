@@ -8,4 +8,4 @@ The Internet is the global system of interconnected computer networks that uses 
 
 ### Main Menu
 
-[Navigation](Sections/Navcontents.md)
+[Navigation](Sections/NavContents.md)
