@@ -1,6 +1,6 @@
 # Website
 This is for Website project
-# [Home Page](Sections/Index.md)
+# [Home Page](Contents/Index.md)
 # [Menu](Sections/Nav.md)
 
 ## The Invention of Internet
