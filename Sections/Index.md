@@ -12,4 +12,4 @@
 
 ### Main Menu
 
-[Menu](/sections/navbar.md)
+[Menu](/sections/navcontents.md)
