@@ -2,7 +2,7 @@
 
 ## Menu Link
 
-[Navigation](/sections/NavContents.md)
+[Navigation](/sections/navcontents.md)
 
 
 ## Page Title
