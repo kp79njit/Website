@@ -2,7 +2,7 @@
 
 ## Menu Link
 
-[Navigation](/sections/navcontents.md)
+[Navigation](/sections/NavContents.md)
 
 
 ## Page Title
@@ -22,7 +22,7 @@ In 1950, the invention of Internet has growth fast than automobile, telephone an
 
 ### Page Image:
 
-Page Image Link: [image](https://i.ytimg.com/vi/Dxcc6ycZ73M/maxresdefault.jpg)
+Page Image Link: [image]()
 
 Page Image Alt attribute: 
 
