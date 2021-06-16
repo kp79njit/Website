@@ -1,6 +1,6 @@
 # Navigation
 
-* [Origin and Invention of Internet](/Contents/Origin and Invention of Internet.md)
+* [Origin and Invention of Internet](/Content/Origin_History_of_Internet.md)
 * Computer Communications
 * Evolution of Websites
 * How Information Transfers
