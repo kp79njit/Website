@@ -1,7 +1,7 @@
 # Website
 This is for Website project
 # [Home Page](index.html)
-# [Menu](Contents)
+# [Menu](Sections/Nav.md)
 
 ## The Invention of Internet
 ## Origin of Internet 
