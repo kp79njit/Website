@@ -25,7 +25,7 @@ It is a not-for-profit partnership of people from all over the world dedicated t
 
 
 ### Page Content
-[Protocols/ComputerCommunication](/sections/ComputerCommunication.md)
+[Protocols/ComputerCommunication](/sections/WhatIsComputerCommunications.md)
 
 ### Page Image:
 
