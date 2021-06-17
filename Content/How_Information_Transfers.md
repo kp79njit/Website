@@ -27,7 +27,7 @@ I Mega Byte =1,048,576 bytes or 1,024 kilobytes
 
 ### Page Image:
 
-Page Image Link:
+Page Image Link: [Information Transfer](https://user-images.githubusercontent.com/85701491/122459883-17d5ce80-cfcf-11eb-8751-3eb2d7416503.png)
 
 Page Image Alt attribute: 
 
