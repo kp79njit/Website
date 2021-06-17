@@ -6,7 +6,7 @@
 
 
 ## Page Title
-
+## How Information Transfers?
 
 ### Description
 Internet ships Binary information in form of BITS. BITS is a Boolean, which describes ‘0’ or ‘1’ like ‘Yes’ or ‘No. BITS is transmitted as electromagnetic signals through wires. The maximum amount of data that can be transferred per second over the link between two computers is known as Bandwidth measured in Bitrate.
