@@ -5,5 +5,5 @@
 * [Computer Communications](/Content/WhatIsComputerCommunications.md)
 * [Evolution of Websites](/Content/EvolutionOfWebsites.md)
 * [How Information Transfers](/Content/How_Information_Transfers.md)
-* [Internet Protocols and IP Address](Content/InternetProtocols.md)
+* [Internet Protocols and IP Address](/Content/InternetProtocols.md)
 
