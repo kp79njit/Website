@@ -29,7 +29,8 @@ Queuing theory is model constructed to predict the queue length and waiting line
 
 ### Page Image:
 
-Page Image Link:
+Page Image Link: [Image](https://user-images.githubusercontent.com/85701491/122460120-5e2b2d80-cfcf-11eb-967b-e25aa0ea7feb.png) 
+                 [Queuing System_image](https://user-images.githubusercontent.com/85701491/122460131-5f5c5a80-cfcf-11eb-9eb4-38389a817d04.png)
 
 Page Image Alt attribute: 
 
