@@ -29,7 +29,7 @@ It is a not-for-profit partnership of people from all over the world dedicated t
 
 ### Page Image:
 
-Page Image Link: [Internet Protocols_Image](https://user-images.githubusercontent.com/85701491/122459641-c6c5da80-cfce-11eb-8f1c-be73e8d01623.png)
+Page Image Link: [IP_Image](https://user-images.githubusercontent.com/85701491/122459641-c6c5da80-cfce-11eb-8f1c-be73e8d01623.png)
 
 Page Image Alt attribute: 
 
