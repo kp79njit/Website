@@ -23,7 +23,7 @@ In 1933, fascinated by technology WWW by Tim  with audio, videos and graphical u
 
 ### Page Image:
 
-Page Image Link:[Evolution of Computer](https://user-images.githubusercontent.com/85701491/122459263-59b24500-cfce-11eb-95dc-a48c6f685283.png)
+Page Image Link: [Evolution of Computer](https://user-images.githubusercontent.com/85701491/122459263-59b24500-cfce-11eb-95dc-a48c6f685283.png)
 
 Page Image Alt attribute: 
 
