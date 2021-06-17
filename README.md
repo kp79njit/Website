@@ -7,7 +7,7 @@ This is for Website project
 Authors 
 
 Vidhi Patel -[github](https://github.com/vnjit/IS-601-vidhi)  
-Keerthana Premkumar-[github](https://github.com/kp79njit/Website)
+Keerthana Premkumar-[github](https://github.com/kpnjit/Website)
 
 ## Topic Highlights
 ### The Invention of Internet
