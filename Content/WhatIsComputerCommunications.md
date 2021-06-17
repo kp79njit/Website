@@ -6,8 +6,7 @@
 
 
 ## Page Title
- 
- # Computer Communications
+## Computer Communications
  
 ### Description
 
